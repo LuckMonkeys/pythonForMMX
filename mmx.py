@@ -26,10 +26,3 @@ for k in range(m):
 
 for i in Mg:
     print(i)
-
-
-
-
-#分离
-#统计每个字母频率
-#添加基数从0-25
